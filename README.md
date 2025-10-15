@@ -1,1 +1,4 @@
-# template-uts-alprog
+# UTS ALGORITMA DAN PEMROGRAMAN
+
+NAMA - NPM
+// JANGAN LUPA DIISI
